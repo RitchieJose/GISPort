@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ritchie Jose</title>
+</head>
+<body></body>
+</html>
