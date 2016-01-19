@@ -2,6 +2,13 @@
 <html>
 <head>
 <title>Ritchie Jose</title>
+<style>
+.intro
+{color:red}
+</style>
 </head>
-<body></body>
+<body>
+<h2 class="intro">Hello World</h2>
+<p>I am a G(eographical)I(nformation)S(cience) student at Texas State University</p>
+</body>
 </html>
